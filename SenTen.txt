@@ -1,0 +1,48 @@
+import i1.txt temp1
+import i2.txt temp2
+import i3.txt temp3
+import i4.txt temp4
+import i5.txt temp5
+import i6.txt temp6
+import i7.txt temp7
+import i8.txt temp8
+import i9.txt temp9
+import i10.txt temp10
+import i1.txt temp11
+import i2.txt temp12
+import i3.txt temp13
+import i4.txt temp14
+import i5.txt temp15
+import i6.txt temp16
+import i7.txt temp17
+import i8.txt temp18
+import i9.txt temp19
+import i10.txt temp20
+list
+remove temp1
+remove temp2
+remove temp3
+remove temp4
+remove temp5
+remove temp6
+remove temp7
+remove temp8
+remove temp9
+remove temp10
+remove temp11
+remove temp12
+remove temp13
+remove temp14
+remove temp15
+remove temp16
+remove temp17
+
+import testCat.txt temp11
+list
+cat temp11
+overwrite temp11 1024 5 D
+cat temp11
+list
+clean 2
+list
+exit
